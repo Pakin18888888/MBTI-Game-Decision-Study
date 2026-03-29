@@ -154,7 +154,7 @@ function restart() {
 
 function sendData(resultType) {
 
-    fetch("https://script.google.com/macros/s/AKfycbx2AR54FFnL-BkqaELZLuVSHIjau7P5iAm1ruDSPDP9xrl5P4nwhGtUllTRXr8s07Rkkw/exec", {
+    fetch("https://script.google.com/macros/s/AKfycbx53y4avOCg7yDxVTgM--pCU60qYPIg2d-gz16oAKvzwy18UkybU2-E1dNQCwrGiJEQ4w/exec", {
 
         method: "POST",
         mode: "no-cors",
